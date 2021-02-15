@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewModel e LifeCycle</string>
+    <string name="data_button">DADOS</string>
+    <string name="show_button">MOSTRAR</string>
+    <string name="label_text">Contador</string>
+</resources>
